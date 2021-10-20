@@ -6,5 +6,5 @@ In this project I am using webpack configuration with auto-restart on applicatio
 
 > yarn install
 
-for run the project
+for run the project:
 > yarn start:dev
